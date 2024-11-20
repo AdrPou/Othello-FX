@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Othello-FX">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Othello FX Edu/src" />
+    </SOURCES>
+  </library>
+</component>
